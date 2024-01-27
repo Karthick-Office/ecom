@@ -1,0 +1,25 @@
+{
+  "name": "ecom",
+  "version": "1.0.0",
+  "description": "E-commerce project with Firebase",
+  "main": "service.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthick-Office/ecom.git"
+  },
+  "keywords": [
+    "algojaxon"
+  ],
+  "author": "Karthick M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karthick-Office/ecom/issues"
+  },
+  "homepage": "https://github.com/Karthick-Office/ecom#readme",
+  "dependencies": {
+    "firebase": "^10.7.2"
+  }
+}
